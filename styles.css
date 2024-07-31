@@ -27,6 +27,7 @@
         }
         .book-details {
             flex: 1;
+			background-color: rgb(46,204,113)
         }
         .book-title {
             font-size: 20px;
